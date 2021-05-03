@@ -1,7 +1,11 @@
 
-*Changes - 2021-05-03:* simply fixed up to build on macOS 11; no changes to functionality.
+*Changes - 2021-05-03:*
+simply fixed up to build on macOS 11; no changes to functionality.
+
+
 
 --
+
 What?
 Noisy is a random audio noise generator for OS X. It is based on “Noise” by Blackhole Media. It was maintained anonymously at http://code.google.com/p/noisy/, and is now maintained at http://github.com/jonshea/Noisy.
 
